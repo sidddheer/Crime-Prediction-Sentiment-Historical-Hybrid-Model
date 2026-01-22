@@ -10,7 +10,7 @@
 
 *A hybrid predictive system integrating **20GB+ of social media data** with historical crime records to mitigate bias and enable dynamic threat assessment.*
 
-[View Code](src/main.py) • [Read the Report](team010report.pdf)
+• [Read the Report](team010report.pdf)
 
 </div>
 
